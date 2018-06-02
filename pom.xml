@@ -8,6 +8,27 @@
     <packaging>jar</packaging>
     <name>holidays</name>
     <description>A Java library for calculating variable holidays</description>
+    <url>https://github.com/cheinema/holidays-java</url>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <developerConnection>scm:git:git@github.com:cheinema/holidays-java.git</developerConnection>
+        <connection>scm:git:git@github.com:cheinema/holidays-java.git</connection>
+        <url>https://github.com/cheinema/holidays-java</url>
+        <tag>HEAD</tag>
+    </scm>
+
+    <issueManagement>
+        <system>github</system>
+        <url>https://github.com/cheinema/holidays-java/issues</url>
+    </issueManagement>
 
     <developers>
         <developer>
